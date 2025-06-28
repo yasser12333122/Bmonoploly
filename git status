@@ -1,0 +1,40 @@
+[1mdiff --git a/about.txt b/about.txt[m
+[1mindex 721cb6b..763b0d1 100644[m
+[1m--- a/about.txt[m
+[1m+++ b/about.txt[m
+[36m@@ -1 +1,33 @@[m
+[31m-thsis is the descriptionof beirute monoploly[m
+\ No newline at end of file[m
+[32m+[m
+[32m+[m[32m# 🎲 Beirut Monopoly 🇱🇧[m
+[32m+[m
+[32m+[m[32m**Beirut Monopoly** is a fun and localized twist on the classic Monopoly game — inspired by the vibrant streets, neighborhoods, and culture of Lebanon’s capital city. Buy properties like Hamra, Gemmayzeh, Verdun, or even Raouché! Negotiate deals, build your empire, and bankrupt your opponents — all while enjoying a Lebanese flair.[m
+[32m+[m
+[32m+[m[32m## 🏙️ Game Features[m
+[32m+[m
+[32m+[m[32m- 🎯 **Local Landmarks**: Play with familiar Beirut hotspots and areas.[m
+[32m+[m[32m- 💸 **Buy & Trade**: Own and upgrade properties, collect rent, and make bold trades.[m
+[32m+[m[32m- 🏗️ **Build**: Construct houses and hotels to grow your Beirut empire.[m
+[32m+[m[32m- 🔁 **Multiplayer Fun**: Play with friends or challenge local players.[m
+[32m+[m[32m- 🇱🇧 **Lebanese Style Cards**: Enjoy custom Chance and Community Chest cards with a Lebanese twist.[m
+[32m+[m
+[32m+[m[32m## 📍 Locations Featured[m
+[32m+[m
+[32m+[m[32m- Hamra Street[m[41m  [m
+[32m+[m[32m- Mar Mikhael[m[41m  [m
+[32m+[m[32m- Zaitunay Bay[m[41m  [m
+[32m+[m[32m- Raouché Rock[m[41m  [m
+[32m+[m[32m- ABC Verdun[m[41m  [m
+[32m+[m[32m- Martyrs’ Square[m[41m  [m
+[32m+[m[32m- And more![m
+[32m+[m
+[32m+[m[32m## ⚙️ Notes[m
+[32m+[m
+[32m+[m[32m- Game is available in English & Arabic[m[41m  [m
+[32m+[m[32m- Supports offline and online multiplayer[m[41m  [m
+[32m+[m[32m- Designed for all ages![m
+[32m+[m
+[32m+[m[32m---[m
+[32m+[m
+[32m+[m[32m**Experience the charm and chaos of Beirut — one property at a time.**[m[41m  [m
+[32m+[m[32mAre you ready to own the city?[m
